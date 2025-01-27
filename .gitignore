@@ -49,6 +49,26 @@ Generated\ Files/
 TestResult.xml
 nunit-*.xml
 
+#Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+#venv
+venv/
+
+#test
+test/
+
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/
